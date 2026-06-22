@@ -88,5 +88,5 @@ def build_vector_database(file_path):
 
 if __name__ == "__main__":
     # Target your clean file path
-    target_file = "./knowledge_base/KB_file_01.md"
+    target_file = "./knowledge_base/KB_file_02.md"
     build_vector_database(target_file)
